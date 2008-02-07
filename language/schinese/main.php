@@ -7,7 +7,7 @@
 * Simplified Chinese translator: Conan <www.edogawaconan.com>
 * Licence: GNU
 */
- 
+
 define("_MD_SF_ACTION", "动作");
 define("_MD_SF_ALL", "全部");
 define("_MD_SF_ADMIN_PAGE", ":: 管理区 ::");
@@ -60,7 +60,7 @@ define("_MD_SF_FAQCOMEFROM", "找到此问答项目在 ");
 define("_MD_SF_FINDFAQHERE", "在这搜寻此问答项目: ");
 define("_MD_SF_GOODDAY", "日安, ");
 define("_MD_SF_HITS", "次");
-define("_MD_SF_HITSDETAIL", "此问答项目已被点阅\");
+define("_MD_SF_HITSDETAIL", "此问答项目已被点阅\.");
 define("_MD_SF_HOME", "问答首页");
 define("_MD_SF_HOWDOI", "我要如何...");
 define("_MD_SF_HOWDOI_FAQ", "我要如何...");

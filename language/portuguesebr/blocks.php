@@ -6,7 +6,7 @@
 * Translator: Desus <desus@xoopscafe.org>
 * Licence: GNU
 */
- 
+
 // Blocos
 define("_MB_SF_ALLCAT", "Todos os Assuntos");
 define("_MB_SF_ALLUNANSWERED", "Veja todas dúvidas...");
@@ -27,5 +27,5 @@ define("_MB_SF_SELECTCAT", "Exibir Questões sobre");
 define("_MB_SF_SHOW_DATE", "Mostrar Data :");
 define("_MB_SF_VISITFAQ", "Visite o");
 define("_MB_SF_WEIGHT", "Listar por importância");
-define("_MI_SF_WARNING_RC", "SEI LA, EH AVISO DE ERRO"
+define("_MI_SF_WARNING_RC", "SEI LA, EH AVISO DE ERRO");
 ?>
