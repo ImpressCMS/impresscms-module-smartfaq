@@ -1,6 +1,6 @@
 Hola {X_UNAME},
 
-La siquiente Q&A (Pregunta y Respuesta) ha sido publicada en el módulo "{MODULE_NAME}" en {X_SITENAME} :
+La siquiente Q&A (Pregunta y Respuesta) ha sido publicada en el módulo {MODULE_NAME} en {X_SITENAME} :
 
 "{FAQ_NAME}"
 

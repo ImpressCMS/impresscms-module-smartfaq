@@ -1,6 +1,6 @@
 Hola {X_UNAME},
 
-Le informamos que la siguiente Q&A (Pregunta y Respuesta) enviada el {DATESUB} en {X_SITENAME} ha sido aprobada por un moderador y publicada en el módulo "{MODULE_NAME}" de nuestro sitio.
+Le informamos que la siguiente Q&A (Pregunta y Respuesta) enviada el {DATESUB} en {X_SITENAME} ha sido aprobada por un moderador y publicada en el módulo {MODULE_NAME} de nuestro sitio.
 
 "{FAQ_NAME}"
 

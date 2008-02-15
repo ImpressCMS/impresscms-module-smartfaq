@@ -1,6 +1,6 @@
 Hola {X_UNAME},
 
-Le informamos que la siguiente respuesta que usted envió para la siguiente Q&A (Pregunta y Respuesta) el {DATESUB} en {X_SITENAME} ha sido aprobada por un moderador. Su respuesta reemplazara a la respuesta original y ha sido publicada en el módulo "{MODULE_NAME}" de nuestro sitio.
+Le informamos que la siguiente respuesta que usted envió para la siguiente Q&A (Pregunta y Respuesta) el {DATESUB} en {X_SITENAME} ha sido aprobada por un moderador. Su respuesta reemplazara a la respuesta original y ha sido publicada en el módulo {MODULE_NAME} de nuestro sitio.
 
 "{FAQ_NAME}"
 

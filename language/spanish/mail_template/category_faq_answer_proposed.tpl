@@ -1,6 +1,6 @@
 Hola {X_UNAME},
 
-Una nueva respuesta ha sido propuesta para el siguiente FAQ en el módulo "{MODULE_NAME}" en {X_SITENAME}.
+Una nueva respuesta ha sido propuesta para el siguiente FAQ en el módulo {MODULE_NAME} en {X_SITENAME}.
 
 "{FAQ_NAME}"
 
