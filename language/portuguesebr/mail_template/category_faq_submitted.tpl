@@ -1,23 +1,23 @@
-Olá {X_UNAME},
+OlÃ¡ {X_UNAME},
 
-A seguinte Questão foi enviada dentro do módulo {MODULE_NAME} do {X_SITENAME} :
+A seguinte QuestÃ£o foi enviada dentro do mÃ³dulo {MODULE_NAME} do {X_SITENAME} :
 
 "{FAQ_NAME}"
 
-Você pode revisar esta Questão aqui :
+VocÃª pode revisar esta QuestÃ£o aqui :
 
 {WAITINGFILES_URL}
 
 -----------
 
-Você está recebendo esta mensagem pois solicitou ser notificado quando uma nova Q&As are submitted in the category "{CATEGORY_NAME}" of the {MODULE_NAME} module at our site.
+VocÃª estÃ¡ recebendo esta mensagem pois solicitou ser notificado quando uma nova Q&As are submitted in the category "{CATEGORY_NAME}" of the {MODULE_NAME} module at our site.
 
-Caso você não queira mais receber nenhuma aviso, por favor atualize 
+Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
 a forma como gostaria de ser notificado clicando no link abaixo:
 
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃO RESPONDA ESTA MENSAGEM.
+POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
 
 
 Atenciosamente,

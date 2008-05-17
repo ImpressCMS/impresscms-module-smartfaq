@@ -1,8 +1,8 @@
-Olá {X_UNAME},
+OlÃ¡ {X_UNAME},
 
-Sentimos em informa-lo que a Questão que você enviou ao {X_SITENAME} no {SUBDATE} foi rejeitado por um moderador. Provavelmente não estava no contexto. Se quiser mais informações, por favor envie um e-mail o webmaster, {X_ADMINMAIL}.
+Sentimos em informa-lo que a QuestÃ£o que vocÃª enviou ao {X_SITENAME} no {SUBDATE} foi rejeitado por um moderador. Provavelmente nÃ£o estava no contexto. Se quiser mais informaÃ§Ãµes, por favor envie um e-mail o webmaster, {X_ADMINMAIL}.
 
-Conteúdo da Questão que você enviou :
+ConteÃºdo da QuestÃ£o que vocÃª enviou :
 
 {FAQ_QUESTION}
 
@@ -12,12 +12,12 @@ Conteúdo da Questão que você enviou :
 
 You are receiving this message because you selected to be notified upon approbation of the submitted Q&A.
 
-Caso você não queira mais receber nenhuma aviso, por favor atualize 
+Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
 a forma como gostaria de ser notificado clicando no link abaixo:
 
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃO RESPONDA ESTA MENSAGEM.
+POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
 
 
 Atenciosamente,
