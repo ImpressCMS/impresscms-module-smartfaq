@@ -1,0 +1,18 @@
+###:========================================================
+###:==| Credits: Team http://br.impresscms.org.
+###:========================================================
+###:==| Version: 1.08 
+###:==| Data Release: 2008-02-23
+###:==| Module: SmartFaq - Project impresscms.org
+###:==| Status: Final
+###:==| Translation: GibaPhp complements and revision.
+###:========================================================
+###:==| Credits: Team X-Trad.org - In Special ArtsGeral.
+###:========================================================
+###:==| at version 1.08 smartfactory.
+###:==|
+###:==|define("_AM_WFD_IMPORWMPNOT", "Modulo wmpownloads não encontrado");
+###:==|
+###:========================================================
+###:==| Histórico: Team X-Trad.org - Old versions...
+###:========================================================

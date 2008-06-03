@@ -1,8 +1,9 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-Sentimos em informa-lo, que a resposta enviada ao {X_SITENAME} em {SUBDATE} foi rejeitada por um moderador. Provavelmente nÃ£o Se quiser mais informaÃ§Ãµes sobre isso, por favor envie um e-mail ao webmaster, {X_ADMINMAIL}.
+Pedimos desculpas para informá-lo de que a resposta que você enviou ao site {X_SITENAMEem {SUBDATE} foi rejeitada por um moderador. 
+Caso precise de mais informações, envie um e-mail ao administrador {X_ADMINMAIL}.
 
-ConteÃºdo da resposta que vocÃª enviou :
+Conteúdo da resposta que você enviou:
 
 {FAQ_QUESTION}
 
@@ -10,19 +11,15 @@ ConteÃºdo da resposta que vocÃª enviou :
 
 -----------
 
-VocÃª estÃ¡ recebendo esta mensagem porque vocÃª selecionou para ser notificado quando resposta enviada fosse aprovada.
+Você está recebendo esta mensagem porque você selecionou para ser notificado mediante aprovação da resposta apresentada.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor, não responda a esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}

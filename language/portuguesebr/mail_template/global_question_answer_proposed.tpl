@@ -1,28 +1,23 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-Uma resposta foi proposta na seÃ§Ã£o de Perguntas do {X_SITENAME}:
+Uma resposta foi adicionada para a seguinte pergunta na seção de Perguntas Abertas {X_SITENAME} :
 
 "{FAQ_NAME}"
 
-VocÃª pode revisar a resposta aqui:
-
+Você pode ver aqui:
 {WAITINGFILES_URL}
 
 -----------
 
-VocÃª estÃ¡ recebendo esta mensagem pois solicitou ser notificado quando uma nova answer are proposed for any question in the Open Questions section of our site.
+Você está recebendo esta mensagem porque você selecionou para ser notificado quando novas respostas para qualquer pergunta na seção de Perguntas abertas em nosso site.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor não responda esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}

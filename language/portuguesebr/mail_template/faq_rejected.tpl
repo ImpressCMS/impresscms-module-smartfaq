@@ -1,8 +1,10 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-Sentimos em informa-lo que a QuestÃ£o que vocÃª enviou ao {X_SITENAME} no {SUBDATE} foi rejeitado por um moderador. Provavelmente nÃ£o estava no contexto. Se quiser mais informaÃ§Ãµes, por favor envie um e-mail o webmaster, {X_ADMINMAIL}.
+Pedimos desculpas para informá-lo de que a FAQ que você enviou ao site {X_SITENAME} em {SUBDATE} foi rejeitado pelo moderador. 
+Caso precise de mais informações, envie um e-mail ao administrador {X_ADMINMAIL}.
 
-ConteÃºdo da QuestÃ£o que vocÃª enviou :
+
+Conteúdo da FAQ que você enviou:
 
 {FAQ_QUESTION}
 
@@ -10,19 +12,15 @@ ConteÃºdo da QuestÃ£o que vocÃª enviou :
 
 -----------
 
-You are receiving this message because you selected to be notified upon approbation of the submitted Q&A.
+Você está recebendo esta mensagem porque você selecionou para ser notificado mediante aprovação de FAQs submetidas.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor não responda esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}

@@ -1,26 +1,22 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-GostarÃ¡ de saber que a resposta que enviou para a seguinte pergunta {DATESUB} no {X_SITENAME} foi aprovado por um moderador:
+Temos o prazer de informar que a resposta que você enviou para a seguinte pergunta sobre {DATESUB} no site {X_SITENAME} foi aprovada pelo moderador:
 
 "{FAQ_NAME}"
 
-Agora a pergunta se tornarÃ¡ uma QuestÃ£o e serÃ¡ publicada dentro do mÃ³dulo {MODULE_NAME} no {X_SITENAME}.
+A pergunta vai agora tornar-se um FAQ e será publicado em breve no {MODULE_NAME} no site {X_SITENAME}.
 
 -----------
 
-VocÃª estÃ¡ recebendo esta mensagem porque vocÃª selecionou para ser notificado quando resposta enviada fosse aprovada.
+Você está recebendo esta mensagem porque você selecionou para ser notificado mediante aprovação da resposta apresentada.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor não responda esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}

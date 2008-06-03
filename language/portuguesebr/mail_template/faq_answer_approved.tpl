@@ -1,28 +1,25 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-We are please to inform you that the following answer you submitted for the following Q&A on {DATESUB} at {X_SITENAME} has been approved by a moderator. Your answer has therefor replaced the original answer and was published in the {MODULE_NAME} of our site.
+Estamos a informar que a seguinte resposta que você enviou {DATESUB} no site {X_SITENAME} tenha sido aprovado por um moderador. 
+Sua resposta foi substituída pela resposta original e foi publicado pelo {MODULE_NAME} em nosso site.
 
 "{FAQ_NAME}"
 
-VocÃª pode revisar esta pergunta aqui :
+Você pode ver aqui:
 
 {FAQ_URL}
 
 -----------
 
-VocÃª estÃ¡ recebendo esta mensagem porque vocÃª selecionou para ser notificado quando resposta enviada fosse aprovada.
+Você esta recebendo esta mensagem, pois você selecionou a opção de ser avisado quando novas resposta forem submetidas.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor, não responda a esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}

@@ -1,28 +1,25 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-GostarÃ¡ de saber que a QuestÃ£o que vocÃª enviou ao {DATESUB} no {X_SITENAME} foi aprovada por um moderador e publicada dentro do {MODULE_NAME} do nosso site.
+Estamos a informar que a seguinte FAQ que você enviou {DATESUB} no {X_SITENAME} foi aprovado por um moderador e publicado pelo {MODULE_NAME} em nosso site.
 
 "{FAQ_NAME}"
 
-VocÃª pode ler esta QuestÃ£o aqui :
+Você pode ver a nova resposta aqui:
 
 {FAQ_URL}
 
 -----------
 
-You are receiving this message because you selected to be notified upon approbation of the submitted Q&A.
+Você está recebendo esta mensagem porque você selecionou para ser notificado mediante aprovação de FAQs submetidas.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor não responda esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}
+}

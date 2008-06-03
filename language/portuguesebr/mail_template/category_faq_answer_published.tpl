@@ -1,28 +1,24 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-Uma resposta nova foi publicada para a seguinte QuestÃ£o dentro do mÃ³dulo {MODULE_NAME} do {X_SITENAME} :
+Uma nova resposta foi publicada para a seguinte Pergunta pelo {MODULE_NAME} no {X_SITENAME} :
 
 "{FAQ_NAME}"
 
-VocÃª pode ver a resposta nova aqui:
+Você pode ver aqui:
 
 {FAQ_URL}
 
 -----------
 
-VocÃª estÃ¡ recebendo esta mensagem pois solicitou ser notificado quando uma nova answer are published in the category "{CATEGORY_NAME}" of the {MODULE_NAME} module of our site.
+Você esta recebendo esta mensagem, pois você selecionou a opção de ser avisado quando novas respostas forem publicadas na categoria: "{CATEGORY_NAME}" em {MODULE_NAME} no site.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor, não responda a esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}

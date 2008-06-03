@@ -1,26 +1,21 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-O assunto '{CATEGORY_NAME}'  foi criado dentro do mÃ³dulo {MODULE_NAME} da {X_SITENAME}.
+A categoria '{CATEGORY_NAME}' foi criada no {MODULE_NAME} no site {X_SITENAME}.
 
-Clique neste link para ver o conteÃºdo deste assunto criado recentemente:
-
+Siga este link para visualizar o conteúdo da recém-criada categoria:
 {CATEGORY_URL}
 
 -----------
 
-VocÃª estÃ¡ recebendo esta mensagem pois solicitou ser notificado quando uma nova categories are added to the {MODULE_NAME} module of our site.
+Você está recebendo esta mensagem porque você selecionou para ser notificado quando novas categorias são acrescentados pelo {MODULE_NAME} em nosso site.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor não responda esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}

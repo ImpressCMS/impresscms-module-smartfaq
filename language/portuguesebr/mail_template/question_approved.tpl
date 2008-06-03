@@ -1,28 +1,24 @@
-OlÃ¡ {X_UNAME},
+Olá {X_UNAME},
 
-Provavelmente gostarÃ¡ de saber que a pergunta que enviou ao {DATESUB} no {X_SITENAME} foi aprovada por um moderador e publicada na seÃ§Ã£o de Perguntas de nosso site.
+Temos o prazer de informar que a seguinte questão submetida, em {DATESUB} no site {X_SITENAME} foi aprovado por um moderador e publicada na seção de Perguntas Abertas nosso site.
 
 "{FAQ_NAME}"
 
-VocÃª pode ver a pergunta aqui :
+You can view this question here :
 
 {FAQ_URL}
 
 -----------
 
-VocÃª estÃ¡ recebendo esta mensagem porque vocÃª selecionou para ser notificado quando pergunta enviada fosse aprovada.
+Você está recebendo esta mensagem porque você selecionou para ser notificado mediante aprovação da questão submetida.
 
-Caso vocÃª nÃ£o queira mais receber nenhuma aviso, por favor atualize 
-a forma como gostaria de ser notificado clicando no link abaixo:
-
+Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-POR FAVOR NÃƒO RESPONDA ESTA MENSAGEM.
-
-
-Atenciosamente,
+Por favor não responda esta mensagem.
 
 -----------
-Equipe do {SITENAME}
-({SITEURL}) 
-{ADMINMAIL}
+
+{X_SITENAME} ({X_SITEURL}) 
+O Administrador
+{X_ADMINMAIL}
