@@ -16,7 +16,7 @@ Você esta recebendo esta mensagem, pois você selecionou a opção de ser avisado q
 Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-Por favor, não responda a esta mensagem.
+NÃO RESPONDER ESTA MENSAGEM.
 
 -----------
 

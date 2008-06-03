@@ -312,15 +312,18 @@ define('_MI_SF_VERSION_HISTORY', "Historico da versão");
 // Beta
 define('_MI_SF_WARNING_BETA', "This module comes as is, without any guarantees whatsoever. 
 This module is BETA, meaning it is still under active development. This release is meant for
-<b>testing purposes only</b> and we <b>strongly</b> recommend that you do not use it on a live website or in a production environment.");
+<b>testing purposes only</b> and we <b>strongly</b> recommend that you do not use it on a live 
+website or in a production environment.");
 
 // RC
 define('_MI_SF_WARNING_RC', "This module comes as is, without any guarantees whatsoever. This module 
-is a Release Candidate and should not be used on a production web site. The module is still under active development and its use is under your own responsibility, which means the author is not responsible.");
+is a Release Candidate and should not be used on a production web site. The module is still under 
+active development and its use is under your own responsibility, which means the author is not responsible.");
 
 // Final
 define('_MI_SF_WARNING_FINAL', "This module comes as is, without any guarantees whatsoever. Although this 
 module is not beta, it is still under active development. This release can be used in a live website 
-or a production environment, but its use is under your own responsibility, which means the author is not responsible.");
+or a production environment, but its use is under your own responsibility, which means the author 
+is not responsible.");
 
 ?>
