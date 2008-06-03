@@ -1,21 +1,21 @@
-Ol· {X_UNAME},
+Ol√° {X_UNAME},
 
-Temos o prazer de informar que a seguinte quest„o submetida, em {DATESUB} no site {X_SITENAME} foi aprovado por um moderador e publicada na seÁ„o de Perguntas Abertas nosso site.
+Temos o prazer de informar que a seguinte quest√£o submetida, em {DATESUB} no site {X_SITENAME} foi aprovado por um moderador e publicada na se√ß√£o de Perguntas Abertas nosso site.
 
 "{FAQ_NAME}"
 
-You can view this question here :
+Voc√™ poder√° ver esta quest√£o aqui:
 
 {FAQ_URL}
 
 -----------
 
-VocÍ est· recebendo esta mensagem porque vocÍ selecionou para ser notificado mediante aprovaÁ„o da quest„o submetida.
+Voc√™ est√° recebendo esta mensagem porque voc√™ selecionou para ser notificado mediante aprova√ß√£o da quest√£o submetida.
 
-Caso vocÍ n„o queira mais receber este tipo de aviso, por favor atualize o seu registro de inscriÁ„o em nosso site clicando no link abaixo:
+Caso voc√™ n√£o queira mais receber este tipo de aviso, por favor atualize o seu registro de inscri√ß√£o em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-N√O RESPONDER ESTA MENSAGEM.
+N√ÉO RESPONDER ESTA MENSAGEM.
 
 -----------
 

@@ -1,18 +1,18 @@
-Olá {X_UNAME},
+OlÃ¡ {X_UNAME},
 
 A categoria '{CATEGORY_NAME}' foi criada no {MODULE_NAME} no site {X_SITENAME}.
 
-Siga este link para visualizar o conteúdo da recém-criada categoria:
+Siga este link para visualizar o conteÃºdo da recÃ©m-criada categoria:
 {CATEGORY_URL}
 
 -----------
 
-Você está recebendo esta mensagem porque você selecionou para ser notificado quando novas categorias são acrescentados pelo {MODULE_NAME} em nosso site.
+VocÃª estÃ¡ recebendo esta mensagem porque vocÃª selecionou para ser notificado quando novas categorias sÃ£o acrescentados pelo {MODULE_NAME} em nosso site.
 
-Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
+Caso vocÃª nÃ£o queira mais receber este tipo de aviso, por favor atualize o seu registro de inscriÃ§Ã£o em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-NÃO RESPONDER ESTA MENSAGEM.
+NÃƒO RESPONDER ESTA MENSAGEM.
 
 -----------
 

@@ -1,19 +1,19 @@
-Olá {X_UNAME},
+OlÃ¡ {X_UNAME},
 
-Temos o prazer de informar que a resposta que você enviou para a seguinte pergunta sobre {DATESUB} no site {X_SITENAME} foi aprovada pelo moderador:
+Temos o prazer de informar que a resposta que vocÃª enviou para a seguinte pergunta sobre {DATESUB} no site {X_SITENAME} foi aprovada pelo moderador:
 
 "{FAQ_NAME}"
 
-A pergunta vai agora tornar-se um FAQ e será publicado em breve no {MODULE_NAME} no site {X_SITENAME}.
+A pergunta vai agora tornar-se um FAQ e serÃ¡ publicado em breve no {MODULE_NAME} no site {X_SITENAME}.
 
 -----------
 
-Você está recebendo esta mensagem porque você selecionou para ser notificado mediante aprovação da resposta apresentada.
+VocÃª estÃ¡ recebendo esta mensagem porque vocÃª selecionou para ser notificado mediante aprovaÃ§Ã£o da resposta apresentada.
 
-Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
+Caso vocÃª nÃ£o queira mais receber este tipo de aviso, por favor atualize o seu registro de inscriÃ§Ã£o em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-NÃO RESPONDER ESTA MENSAGEM.
+NÃƒO RESPONDER ESTA MENSAGEM.
 
 -----------
 

@@ -1,21 +1,21 @@
-Olá {X_UNAME},
+OlÃ¡ {X_UNAME},
 
 Os seguintes Perguntas e Repostas foi publicado pelo {MODULE_NAME} no site {X_SITENAME} :
 
 "{FAQ_NAME}"
 
-Você pode ver aqui:
+VocÃª pode ver aqui:
 
 {FAQ_URL}
 
 -----------
 
-Você esta recebendo esta mensagem, pois você selecionou a opção de ser avisado quando novas resposta são publicadas na categoria {CATEGORY_NAME} pelo {MODULE_NAME} em nosso site
+VocÃª esta recebendo esta mensagem, pois vocÃª selecionou a opÃ§Ã£o de ser avisado quando novas resposta sÃ£o publicadas na categoria {CATEGORY_NAME} pelo {MODULE_NAME} em nosso site
 
-Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
+Caso vocÃª nÃ£o queira mais receber este tipo de aviso, por favor atualize o seu registro de inscriÃ§Ã£o em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-NÃO RESPONDER ESTA MENSAGEM.
+NÃƒO RESPONDER ESTA MENSAGEM.
 
 -----------
 

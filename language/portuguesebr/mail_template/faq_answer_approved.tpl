@@ -1,22 +1,22 @@
-Olá {X_UNAME},
+OlÃ¡ {X_UNAME},
 
-Estamos a informar que a seguinte resposta que você enviou {DATESUB} no site {X_SITENAME} tenha sido aprovado por um moderador. 
-Sua resposta foi substituída pela resposta original e foi publicado pelo {MODULE_NAME} em nosso site.
+Estamos a informar que a seguinte resposta que vocÃª enviou {DATESUB} no site {X_SITENAME} tenha sido aprovado por um moderador. 
+Sua resposta foi substituÃ­da pela resposta original e foi publicado pelo {MODULE_NAME} em nosso site.
 
 "{FAQ_NAME}"
 
-Você pode ver aqui:
+VocÃª pode ver aqui:
 
 {FAQ_URL}
 
 -----------
 
-Você esta recebendo esta mensagem, pois você selecionou a opção de ser avisado quando novas resposta forem submetidas.
+VocÃª esta recebendo esta mensagem, pois vocÃª selecionou a opÃ§Ã£o de ser avisado quando novas resposta forem submetidas.
 
-Caso você não queira mais receber este tipo de aviso, por favor atualize o seu registro de inscrição em nosso site clicando no link abaixo:
+Caso vocÃª nÃ£o queira mais receber este tipo de aviso, por favor atualize o seu registro de inscriÃ§Ã£o em nosso site clicando no link abaixo:
 {X_UNSUBSCRIBE_URL}
 
-NÃO RESPONDER ESTA MENSAGEM.
+NÃƒO RESPONDER ESTA MENSAGEM.
 
 
 -----------
