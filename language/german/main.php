@@ -46,7 +46,7 @@ define("_MD_SF_DIDUNO_FAQ", "Wussten Sie schon?");
 define("_MD_SF_DIDUNO_FAQ_DSC", "Dieser Eintrag wird im 'Wussten Sie schon'-Block verwendet.");
 define("_MD_SF_DOHTML", "HTML-Tags verwenden ");
 define("_MD_SF_DOSMILEY", "Smilies verwenden ");
-define("_MD_SF_DOXCODE", "XOOPS-Codes verwenden");
+define("_MD_SF_DOXCODE", "ImpressCMS-Codes verwenden");
 define("_MD_SF_EDIT", "FAQ ändern");
 define("_MD_SF_ERROR_ANSWER_NOT_SAVED", "Ein Fehler ist aufgetreten. Die Antwort wurde nicht in der Datenbank gespeichert.");
 define("_MD_SF_ERROR_FAQ_NOT_SAVED", "Ein Fehler ist aufgetreten. Die FAQ wurde nicht in der Datenbank gespeichert.");

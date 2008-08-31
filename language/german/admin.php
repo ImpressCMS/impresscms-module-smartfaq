@@ -313,4 +313,6 @@ define("_AM_SF_NOFAQSSEL", "Keine Suchergebnisse im gewählten Status.");
 define("_AM_SF_ANSWERS", "Antworten");
 define("_AM_SF_ALLFAQS", "FAQs im Modul");
 define("_AM_SF_ALLFAQSMSG", "Status auswählen, um alle verfügbaren Fragen und/oder Antworten im ausgewählten Status zu sehen.");
+
+define("_AM_SF_UPDATE", "Update module");
 ?>
