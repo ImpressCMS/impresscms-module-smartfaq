@@ -5,6 +5,8 @@
 * Licence: GNU
 */
 
+changed: references to class/xoopsmodule.php to kernel/module.php (vaughan)
+
 <b><u>=> Version 1.08 Final (Private release)</u></b>
 
 - Nothing changed from beta 3
