@@ -1,31 +1,30 @@
 <?php
 
 /**
-* $Id$
+* $Id$ Russian translation. Charset: utf-8 (without BOM)
 * Module: SmartFAQ
 * Author: The SmartFactory <www.smartfactory.ca>
-* Translator: LazyBadger <badger@lair.pp.ru>
 * Licence: GNU
 */
  
 // Blocks
-define("_MB_SF_ALLCAT", "Âñå êàòåãîðèè");
-define("_MB_SF_ALLUNANSWERED", "Ïðîñìîòðåòü âñå íåîòâå÷åííûå âîïðîñû...");
-define("_MB_SF_ANSWEREDBY", "Îòâåò äàí");
-define("_MB_SF_ANSWERHERE", "Îòâåò çäåñü!");
-define("_MB_SF_ARTICLEID", "Â&amp;Î Id");
-define("_MB_SF_CATEGORY", "Êàòåãîðèÿ");
-define("_MB_SF_CHARS", "Ðàçìåð âîïðîñà");
-define("_MB_SF_DATE", "Äàòà ïóáëèêàöèè");
-define("_MB_SF_DISP", "Ïîêàçàòü");
-define("_MB_SF_FAQS", "Â&amp;Î");
-define("_MB_SF_HITS", "Ïðîñìîòðîâ");
-define("_MB_SF_LENGTH", " ñèìâîëîâ");
-define("_MB_SF_MOREDETAILS", "Äåòàëüíåå...");
-define("_MB_SF_ORDER", "Ïîðÿäîê ïîêàçà");
-define("_MB_SF_QUESTIONS", "âîïðîñû");
-define("_MB_SF_SELECTCAT", "Ïîêàçàòü Â&amp;Î â ");
-define("_MB_SF_SHOW_DATE", "Ïîêàç äàòû:");
-define("_MB_SF_VISITFAQ", "Ïîñåòèòü");
-define("_MB_SF_WEIGHT", "Ñïèñîê ïî âåñó");
+define("_MB_SF_ALLCAT", "Ð’ÑÐµ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸");
+define("_MB_SF_ALLUNANSWERED", "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð²ÑÐµ Ð½ÐµÐ¾Ñ‚Ð²ÐµÑ‡ÐµÐ½Ð½Ñ‹Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹...");
+define("_MB_SF_ANSWEREDBY", "ÐžÑ‚Ð²ÐµÑ‚ Ð´Ð°Ð½");
+define("_MB_SF_ANSWERHERE", "ÐžÑ‚Ð²ÐµÑ‚ Ð·Ð´ÐµÑÑŒ!");
+define("_MB_SF_ARTICLEID", "Ð’&amp;Ðž Id");
+define("_MB_SF_CATEGORY", "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ");
+define("_MB_SF_CHARS", "Ð Ð°Ð·Ð¼ÐµÑ€ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°");
+define("_MB_SF_DATE", "Ð”Ð°Ñ‚Ð° Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸");
+define("_MB_SF_DISP", "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ");
+define("_MB_SF_FAQS", "Ð’&amp;Ðž");
+define("_MB_SF_HITS", "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²");
+define("_MB_SF_LENGTH", " ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²");
+define("_MB_SF_MOREDETAILS", "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½ÐµÐµ...");
+define("_MB_SF_ORDER", "ÐŸÐ¾Ñ€ÑÐ´Ð¾Ðº Ð¿Ð¾ÐºÐ°Ð·Ð°");
+define("_MB_SF_QUESTIONS", "Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹");
+define("_MB_SF_SELECTCAT", "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð’&amp;Ðž Ð² ");
+define("_MB_SF_SHOW_DATE", "ÐŸÐ¾ÐºÐ°Ð· Ð´Ð°Ñ‚Ñ‹:");
+define("_MB_SF_VISITFAQ", "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÑŒ");
+define("_MB_SF_WEIGHT", "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾ Ð²ÐµÑÑƒ");
 ?>
